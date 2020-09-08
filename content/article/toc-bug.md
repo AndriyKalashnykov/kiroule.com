@@ -14,14 +14,14 @@ TOC is generated but hidden.
 
 {{< toc >}}
 
-# Header 1
+## Header 1
 Lorem ipsum header 1
 
-## Header 1-1
+### Header 1-1
 Lorem ipsum header 1-1
 
-# Header 2
+## Header 2
 Lorem ipsum header 2
 
-## Header 2-1
+### Header 2-1
 Lorem ipsum header 2-1
